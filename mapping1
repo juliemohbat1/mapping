@@ -1,0 +1,5 @@
+name: mapping1
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
