@@ -9,7 +9,4 @@ dependencies:
   - jupyter
   - jupyter_contrib_nbextensions
   - cutadapt=2.10
-  - snakemake=5.17
-  - bismark=0.20
-  - samtools=1.9
-  - picard
+
